@@ -128,3 +128,9 @@ O processamento e a transformação de dados podem ser usados para uma variedade
 - Análise de dados: O processamento e a transformação de dados podem ser usados para analisar dados e identificar tendências e padrões.
 - Relatórios: O processamento e a transformação de dados podem ser usados para criar relatórios interativos e informativos.
 - Painéis: O processamento e a transformação de dados podem ser usados para criar painéis interativos que ajudam a visualizar dados.
+
+
+
+OBS:  apoiado com gratidão no git:  maurogallotta/processando-e-transformando-dados-com-Power-BI
+
+  
